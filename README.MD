@@ -10,4 +10,6 @@ Build:
 gcc -o heapdump heapdump.c
 
 Usage:
+```
 ./heapdump <processname>
+```
